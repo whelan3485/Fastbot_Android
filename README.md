@@ -5,6 +5,8 @@
 
 > Related:  [Fastbot-iOS](https://github.com/bytedance/Fastbot_iOS)
 
+> Related: [Kea2](https://github.com/ecnusse/Kea2): an enhanced version of Fastbot -- Fusing automated UI testing with scripts for effectively fuzzing Android apps
+
 ***More detail see at [Fastbot architecture](https://mp.weixin.qq.com/s/QhzqBFZygkIS6C69__smyQ)
 
 ## Features
